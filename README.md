@@ -3,3 +3,5 @@ This repository aims to complete Project Capstone and talks about Suicide Rate o
 by using Highcharter Package to make interactive plots. Please don't mind to contact me if you have any feedback. Thanks!
 
 Link : https://nfitryah.shinyapps.io/suicide_rate/
+
+Data Source : https://www.kaggle.com/twinkle0705/mental-health-and-suicide-rates
